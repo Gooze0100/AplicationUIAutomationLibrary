@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\Libraries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4D57DE-F91F-4FA7-80F9-027EB8398CE8}|ApticLibrary\\ApticLibrary.csproj|c:\\repos\\libraries\\apticlibrary\\core\\aplicationstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4D57DE-F91F-4FA7-80F9-027EB8398CE8}|ApticLibrary\\ApticLibrary.csproj|solutionrelative:apticlibrary\\core\\aplicationstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4D57DE-F91F-4FA7-80F9-027EB8398CE8}|ApticLibrary\\ApticLibrary.csproj|c:\\repos\\libraries\\apticlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4D57DE-F91F-4FA7-80F9-027EB8398CE8}|ApticLibrary\\ApticLibrary.csproj|solutionrelative:apticlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4D57DE-F91F-4FA7-80F9-027EB8398CE8}|ApticLibrary\\ApticLibrary.csproj|c:\\repos\\libraries\\apticlibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E4D57DE-F91F-4FA7-80F9-027EB8398CE8}|ApticLibrary\\ApticLibrary.csproj|solutionrelative:apticlibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplicationStart.cs",
+              "DocumentMoniker": "C:\\Repos\\Libraries\\ApticLibrary\\Core\\AplicationStart.cs",
+              "RelativeDocumentMoniker": "ApticLibrary\\Core\\AplicationStart.cs",
+              "ToolTip": "C:\\Repos\\Libraries\\ApticLibrary\\Core\\AplicationStart.cs",
+              "RelativeToolTip": "ApticLibrary\\Core\\AplicationStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:13:24.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\Libraries\\ApticLibrary\\appsettings.json",
+              "RelativeDocumentMoniker": "ApticLibrary\\appsettings.json",
+              "ToolTip": "C:\\Repos\\Libraries\\ApticLibrary\\appsettings.json",
+              "RelativeToolTip": "ApticLibrary\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T13:06:49.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Repos\\Libraries\\ApticLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "ApticLibrary\\Class1.cs",
+              "ToolTip": "C:\\Repos\\Libraries\\ApticLibrary\\Class1.cs",
+              "RelativeToolTip": "ApticLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:53:38.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
