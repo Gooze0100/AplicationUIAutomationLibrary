@@ -15,6 +15,10 @@ public class AplicationStart
         _applicationPath = applicationPath;
     }
 
+    /// <summary>
+    /// Getting Application with constructors application path.
+    /// </summary>
+    /// <returns>Attached or lauched Aplication</returns>
     private Application GetApplication() 
     {
         ProcessStartInfo processStartInfo = new(_applicationPath);
@@ -38,6 +42,10 @@ public class AplicationStart
         return newApplication;
     }
 
+    /// <summary>
+    /// Gets Application main window.
+    /// </summary>
+    /// <returns>Window of Application</returns>
     public Window GetWindow() 
     { 
         Application newApplication = GetApplication();
